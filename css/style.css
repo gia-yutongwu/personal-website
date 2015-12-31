@@ -15,7 +15,7 @@ body {
 	padding:0;
 	width:100%;
 	color:#000;
-	font: bold 20px/30px "Ubuntu", sans-serif;
+	font: bold 22px/30px "Ubuntu", sans-serif;
 	font-family: "Ubuntu" !important;
 	background:#272727 url(../images/main_bg.gif) repeat left top;
 }
@@ -434,9 +434,10 @@ a:hover {
 }
 
 #blog_title {
-	font-size: 20px;
+	font-size: 24px;
+	font-style: bold;
 }
 
 #blog_content {
-	font-size: 15px;
+	font-size: 18px;
 }
